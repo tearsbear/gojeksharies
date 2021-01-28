@@ -53,7 +53,7 @@ html {
 }
 
 .color1 {
-  color: #00aa13;
+  color: #00aa13 !important;
 }
 
 .bg-color1 {

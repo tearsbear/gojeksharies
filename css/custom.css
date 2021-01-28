@@ -67,6 +67,26 @@ html {
     brightness(140%);
 }
 
+.chip {
+  display: inline-block;
+  padding: 0 20px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  font-size: 15px;
+  font-family: "Maison Neue";
+  font-weight: 600;
+}
+
+.chip img {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
 @media only screen and (max-width: 600px) {
 }
 
